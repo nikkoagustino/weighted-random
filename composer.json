@@ -1,5 +1,5 @@
 {
-  "name": "frank-houweling/weighted-random",
+  "name": "nikkoagustino/weighted-random",
   "description": "Library for generating a weighted random sample",
   "type": "library",
   "license": "MIT",
@@ -12,7 +12,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": "^7.3",
+    "php": "^7.3 || ^8.0",
     "beberlei/assert": "^3.2"
   },
   "autoload": {
